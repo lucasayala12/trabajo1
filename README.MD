@@ -1,0 +1,1 @@
+Lucas Ayala y Lucas Enriquez trabajaron en equipo practicando Git y GitHub, como sincronizarse. 
